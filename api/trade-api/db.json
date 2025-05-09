@@ -1,0 +1,177 @@
+{
+  "tickers": [
+    {
+      "id": "67e8c8ba-e52e-469b-8880-d50c8c78dfe0"
+    },
+    {
+      "id": "88c1746c-781d-4c2b-ad51-f68f5f0d171a",
+      "symbol": "AAPL",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "4793c31e-b4cf-4ea0-8f50-626df64509b5",
+      "symbol": "AAPL",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "140b5911-8292-48f9-89ad-99b367e0a835",
+      "symbol": "AAPL",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "6eea31e6-d436-4934-9600-9014c95aefc0"
+    },
+    {
+      "id": "20fa515f-a3bc-41b9-bcd3-d63a39220664"
+    },
+    {
+      "id": "6dc8615e-177d-4d38-b7d2-cb5ec99336a9"
+    },
+    {
+      "id": "057ee1dc-91cb-4515-9959-cd467ffd3f24",
+      "symbol": "GOOG",
+      "fullName": "Google Inc."
+    },
+    {
+      "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
+      "symbol": "AAPL",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "03135cee-5d75-4a18-80af-8e96da427fbd",
+      "symbol": "AAPL",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "dfefe7db-51c6-46be-a39a-7a83613c5f37",
+      "symbol": "AAPL-4",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "61288870-63f9-42d0-acda-14fb50ea1a43",
+      "symbol": "AAPL5",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "3d46c122-c6ab-4a7d-a8df-302a04e157c2",
+      "symbol": "AAPL6",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "18eb7eb5-51fe-47fe-a4a3-63a5fa4ec834",
+      "symbol": "AAPL7",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "2a35c66a-9bbe-426f-afb3-f84782889b93",
+      "symbol": "TESTTEST",
+      "fullName": "Apple Inc."
+    },
+    {
+      "id": "da0c8209-e31b-4b3b-829f-773df568bc0f",
+      "symbol": "TEST2",
+      "fullName": "Apple Inc."
+    }
+  ],
+  "clients": [
+    {
+      "0": {
+        "symbol": "AAPL6",
+        "fullName": "Apple Inc."
+      },
+      "1": {
+        "symbol": "AAPL7",
+        "fullName": "Apple Inc."
+      },
+      "2": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "3": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "4": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "id": "ef5a0c11-118d-4802-a69c-e743e3c71da3",
+      "holdings": [],
+      "openTrades": [],
+      "tradeHistory": [],
+      "watchlist": [],
+      "firstName": "Edit First Name (1)",
+      "lastName": "Edit Last Name (1)",
+      "email": "firstClient-1@client.com",
+      "phone": "0000000000"
+    },
+    {
+      "0": {
+        "symbol": "AAPL6",
+        "fullName": "Apple Inc."
+      },
+      "1": {
+        "symbol": "AAPL7",
+        "fullName": "Apple Inc."
+      },
+      "2": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "3": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "4": {
+        "symbol": "AAPL5",
+        "fullName": "Apple Inc."
+      },
+      "id": "c3d484ea-ef19-4e81-b6fc-e5003c0f4f06",
+      "holdings": [],
+      "openTrades": [],
+      "tradeHistory": [],
+      "watchlist": []
+    },
+    {
+      "id": "93253509-7bbf-4375-8800-489ce22c882c",
+      "holdings": [],
+      "openTrades": [],
+      "tradeHistory": [],
+      "watchlist": [],
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "cff18b9d-76d2-4c8a-9e6a-44aac60e4dfd",
+      "holdings": [],
+      "openTrades": [],
+      "tradeHistory": [],
+      "watchlist": [],
+      "name": "bob",
+      "email": "bob@example.com",
+      "phone": "0000000000"
+    }
+  ],
+  "brokerOperators": [
+    {
+      "id": "9c68afc6-8609-4487-895a-c8183cf6471e",
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@broker.com",
+      "phone": "0000000000",
+      "role": "ultimate-admin",
+      "username": "admin",
+      "password": "$2b$10$IWk1zgnXlJWuTHKRCDXKz.nIasa3nbU4Qy48zhlsWUTNS0uu8KH7e"
+    },
+    {
+      "id": "1321df61-a5fe-4882-b79c-b77432e9d858",
+      "firstName": "Read",
+      "lastName": "Reeds",
+      "email": "read.reeeds@example.com",
+      "phone": "12345673890",
+      "role": "read-only",
+      "username": "readReeds",
+      "password": "$2b$10$.dQlhnZqLMx7vWs6.k/WQ.5G/PP43aO.8baHXlZzbkIKUZnrqkz2u"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# npm package lock
+package-lock.json
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Parcel-bundler cache (if used)
+.cache/
+
+# Next.js build output (if used)
+.next/
+
+# SvelteKit build output (if used)
+.svelte-kit/
