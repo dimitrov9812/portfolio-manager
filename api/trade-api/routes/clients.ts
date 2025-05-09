@@ -46,7 +46,6 @@ router.post('/', roleMiddleware([Role.UltimateAdmin]), (req, res) => {
   
       const newClient = {
         id: uuidv4(),
-        holdings: [],
         openTrades: [],
         tradeHistory: [],
         watchlist: [],

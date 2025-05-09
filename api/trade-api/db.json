@@ -96,7 +96,6 @@
         "fullName": "Apple Inc."
       },
       "id": "ef5a0c11-118d-4802-a69c-e743e3c71da3",
-      "holdings": [],
       "openTrades": [],
       "tradeHistory": [],
       "watchlist": [],
@@ -127,28 +126,99 @@
         "fullName": "Apple Inc."
       },
       "id": "c3d484ea-ef19-4e81-b6fc-e5003c0f4f06",
-      "holdings": [],
       "openTrades": [],
       "tradeHistory": [],
       "watchlist": []
     },
     {
       "id": "93253509-7bbf-4375-8800-489ce22c882c",
-      "holdings": [],
-      "openTrades": [],
-      "tradeHistory": [],
-      "watchlist": [],
+      "openTrades": [
+        {
+          "id": "some-id",
+          "ticker": "AAPL",
+          "shares": "shares-count",
+          "isBuy": false,
+          "entryPrice": 154.2,
+          "currentPrice": 113,
+          "profit": 13
+        }
+      ],
+      "tradeHistory": [
+        {
+          "id": "some-id",
+          "ticker": "AAPL",
+          "shares": "shares-count",
+          "isBuy": true,
+          "entryPrice": 154.2,
+          "exitPrice": 146,
+          "profitPercent": "12%",
+          "profitDollar": 12
+        }
+      ],
+      "watchlist": [
+        {
+          "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
+          "symbol": "AAPL",
+          "fullName": "Apple Inc."
+        },
+        {
+          "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
+          "symbol": "AAPL",
+          "fullName": "Apple Inc."
+        }
+      ],
       "name": "Alice",
-      "email": "alice@example.com"
+      "email": "alice2222@example.com",
+      "phone": "0000000000"
     },
     {
       "id": "cff18b9d-76d2-4c8a-9e6a-44aac60e4dfd",
-      "holdings": [],
       "openTrades": [],
       "tradeHistory": [],
       "watchlist": [],
       "name": "bob",
       "email": "bob@example.com",
+      "phone": "0000000000"
+    },
+    {
+      "id": "93253509-7bbf-4375-8800-489ce22c882c",
+      "openTrades": [
+        {
+          "id": "some-id",
+          "ticker": "AAPL",
+          "shares": "shares-count",
+          "isBuy": true,
+          "entryPrice": 154.2,
+          "currentPrice": 146,
+          "profit": 12
+        }
+      ],
+      "tradeHistory": [
+        {
+          "id": "some-id",
+          "ticker": "AAPL",
+          "shares": "shares-count",
+          "isBuy": true,
+          "entryPrice": 154.2,
+          "exitPrice": 146,
+          "profitPercent": "12%",
+          "profitDollar": 12
+        }
+      ],
+      "watchlist": [
+        {
+          "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
+          "symbol": "AAPL",
+          "fullName": "Apple Inc."
+        },
+        {
+          "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
+          "symbol": "AAPL",
+          "fullName": "Apple Inc."
+        }
+      ],
+      "name": "Alice",
+      "email": "alice2@example.com",
       "phone": "0000000000"
     }
   ],
