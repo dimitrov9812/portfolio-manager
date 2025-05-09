@@ -26,16 +26,20 @@
             "timeEnd": "dateTimeObject"
         }
     ],
-    "watchlist": [
+    "watchlists": [
         {
-            "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
-            "symbol": "AAPL",
-            "fullName": "Apple Inc."
-        },
-        {
-            "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
-            "symbol": "AAPL",
-            "fullName": "Apple Inc."
+            "id": "some-random-id",
+            "watchlistName": "unique-watchlistName",
+            "symbols": [
+              {
+                "symbol": "AMZN",
+                "fullName": "Amazon.com, Inc."
+              },
+              {
+                "symbol": "TSLA",
+                "fullName": "Tesla, Inc."
+              }
+            ]
         }
     ],
     "name": "Alice",

@@ -1,76 +1,104 @@
 {
   "tickers": [
     {
-      "id": "67e8c8ba-e52e-469b-8880-d50c8c78dfe0"
-    },
-    {
-      "id": "88c1746c-781d-4c2b-ad51-f68f5f0d171a",
+      "id": "05b1f7c3-6221-4f95-8e06-502c0d8e2aeb",
       "symbol": "AAPL",
       "fullName": "Apple Inc."
     },
     {
-      "id": "4793c31e-b4cf-4ea0-8f50-626df64509b5",
-      "symbol": "AAPL",
-      "fullName": "Apple Inc."
+      "id": "8809304d-4d62-4b68-aeac-b5b63609ac33",
+      "symbol": "MSFT",
+      "fullName": "Microsoft Corporation"
     },
     {
-      "id": "140b5911-8292-48f9-89ad-99b367e0a835",
-      "symbol": "AAPL",
-      "fullName": "Apple Inc."
+      "id": "9e6ce74b-d9e0-4359-84b1-f89573b7798c",
+      "symbol": "GOOGL",
+      "fullName": "Alphabet Inc. (Class A)"
     },
     {
-      "id": "6eea31e6-d436-4934-9600-9014c95aefc0"
+      "id": "f8549e9a-8469-4694-8a98-46361d498a0b",
+      "symbol": "AMZN",
+      "fullName": "Amazon.com, Inc."
     },
     {
-      "id": "20fa515f-a3bc-41b9-bcd3-d63a39220664"
+      "id": "886fac5b-71b8-436c-bd9d-5393d08dbec4",
+      "symbol": "TSLA",
+      "fullName": "Tesla, Inc."
     },
     {
-      "id": "6dc8615e-177d-4d38-b7d2-cb5ec99336a9"
+      "id": "12e4cbb6-4bef-419d-92c9-6158c40d9679",
+      "symbol": "META",
+      "fullName": "Meta Platforms, Inc."
     },
     {
-      "id": "057ee1dc-91cb-4515-9959-cd467ffd3f24",
-      "symbol": "GOOG",
-      "fullName": "Google Inc."
+      "id": "2186b764-d8ff-4ef7-8121-47bf003704c0",
+      "symbol": "NVDA",
+      "fullName": "NVIDIA Corporation"
     },
     {
-      "id": "d2b4eb01-a724-46ef-87cf-7d30c537d3a3",
-      "symbol": "AAPL",
-      "fullName": "Apple Inc."
+      "id": "64becc33-6474-4fec-855a-48c2dc29de26",
+      "symbol": "BRK.B",
+      "fullName": "Berkshire Hathaway Inc. (Class B)"
     },
     {
-      "id": "03135cee-5d75-4a18-80af-8e96da427fbd",
-      "symbol": "AAPL",
-      "fullName": "Apple Inc."
+      "id": "cedf25a3-7b16-4b88-929a-bbe868afe577",
+      "symbol": "JPM",
+      "fullName": "JPMorgan Chase & Co."
     },
     {
-      "id": "dfefe7db-51c6-46be-a39a-7a83613c5f37",
-      "symbol": "AAPL-4",
-      "fullName": "Apple Inc."
+      "id": "ed7ac2a0-6a18-4c98-bdcc-0a3317311f2c",
+      "symbol": "JNJ",
+      "fullName": "Johnson & Johnson"
     },
     {
-      "id": "61288870-63f9-42d0-acda-14fb50ea1a43",
-      "symbol": "AAPL5",
-      "fullName": "Apple Inc."
+      "id": "03f0bf83-8f80-46c1-b9c3-1d22228f376a",
+      "symbol": "V",
+      "fullName": "Visa Inc."
     },
     {
-      "id": "3d46c122-c6ab-4a7d-a8df-302a04e157c2",
-      "symbol": "AAPL6",
-      "fullName": "Apple Inc."
+      "id": "a594c0db-18dd-4ec6-b679-e0a9b0703b03",
+      "symbol": "PG",
+      "fullName": "Procter & Gamble Co."
     },
     {
-      "id": "18eb7eb5-51fe-47fe-a4a3-63a5fa4ec834",
-      "symbol": "AAPL7",
-      "fullName": "Apple Inc."
+      "id": "5b643739-5c46-488f-bf1a-7c0bb145dde8",
+      "symbol": "UNH",
+      "fullName": "UnitedHealth Group Incorporated"
     },
     {
-      "id": "2a35c66a-9bbe-426f-afb3-f84782889b93",
-      "symbol": "TESTTEST",
-      "fullName": "Apple Inc."
+      "id": "3ca31c7e-25d8-4e28-a257-f7f662ec0cdf",
+      "symbol": "HD",
+      "fullName": "The Home Depot, Inc."
     },
     {
-      "id": "da0c8209-e31b-4b3b-829f-773df568bc0f",
-      "symbol": "TEST2",
-      "fullName": "Apple Inc."
+      "id": "f532ce7f-8933-4b2f-9a10-3c186b67a851",
+      "symbol": "MA",
+      "fullName": "Mastercard Incorporated"
+    },
+    {
+      "id": "ae8daa1a-cc35-430a-9205-4f2416398759",
+      "symbol": "DIS",
+      "fullName": "The Walt Disney Company"
+    },
+    {
+      "id": "786a870d-7f01-4715-a30b-49170c6753d2",
+      "symbol": "PEP",
+      "fullName": "PepsiCo, Inc."
+    },
+    {
+      "id": "a13018f8-1c4c-4103-9643-d809aa554286",
+      "symbol": "KO",
+      "fullName": "The Coca-Cola Company"
+    },
+    {
+      "id": "23a77afb-fc89-468d-8d36-38c1faa9717a",
+      "symbol": "NFLX",
+      "fullName": "Netflix, Inc."
+    },
+    {
+      "id": "10527c1c-aae3-402b-9c34-b4d510499b55",
+      "symbol": "INTC",
+      "fullName": "Intel Corporation"
     }
   ],
   "clients": [

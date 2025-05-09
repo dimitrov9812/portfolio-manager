@@ -1,0 +1,13 @@
+{
+    "title": "Demo Stock Price Publisher",
+    "name": "demo-stock-price-publisher",
+    "caption": "Demo Stock Price Publisher Fake Prices",
+    "service": true,
+    "autoStart": true,
+    "allowMultiple": false,
+    "type": "node",
+    "details": {
+        "path": "C:\\Users\\AleksandarDimitrov\\OneDrive - INTEROP.IO UK LIMITED\\Documents\\code\\practice\\finance-app\\api\\trade-price-publisher-stream\\trade-price-publisher-stream.js",
+        "showConsole": true
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@interopio/desktop": "^6.12.0"
+  }
+}

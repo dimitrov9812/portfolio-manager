@@ -6,12 +6,14 @@ import { Role, roleMiddleware } from '../utils/role';
 
 const router = Router();
 
-router.get('/', roleMiddleware([Role.ReadOnly, Role.FullAccess, Role.UltimateAdmin]), (req, res) => {
+// Does not need validaiton since we are using it in price-publisher to fetch available tickers
+router.get('/', (req, res) => {
   res.json(db.tickers);
 });
 
+// Does not need validaiton since we are using it in price-publisher to fetch available tickers
 //@ts-ignore
-router.get('/:id', uuidValidationMiddleware, roleMiddleware([Role.ReadOnly, Role.FullAccess, Role.UltimateAdmin]), (req, res) => {
+router.get('/:id', uuidValidationMiddleware, (req, res) => {
     const tickerId = req.params.id;
 
     // Find the ticker by its ID
